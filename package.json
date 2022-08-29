@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/crush-workspace.figma-tokens-l7f34m3o",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 46HxUh3CSG7LJ6MAUAgT --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
